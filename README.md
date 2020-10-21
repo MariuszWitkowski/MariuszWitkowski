@@ -1,9 +1,8 @@
 ### Hi, I'm Mariusz 👋
 
-![Mariusz Witkowski's github stats](https://github-readme-stats.vercel.app/api?username=MariuszWitkowski&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWitkowski&theme=material-palenight&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWitkowski&theme=buefy&layout=compact)
-
+![Mariusz Witkowski's github stats](https://github-readme-stats.vercel.app/api?username=MariuszWitkowski&show_icons=true&theme=material-palenight)
 
 <!--
 **MariuszWitkowski/MariuszWitkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
