@@ -1,10 +1,10 @@
 ### Hi, I'm Mariusz 👋
 
+<a href="https://app.daily.dev/mariuszwitkowski"><img src="https://api.daily.dev/devcards/69e3e6bedc034942b9c1f2c31dd6dd01.png?r=ij2" width="400" alt="Mariusz Witkowski's Dev Card"/></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariuszWitkowski&layout=compact)
 
 ![Mariusz Witkowski's github stats](https://github-readme-stats.vercel.app/api?username=MariuszWitkowski&show_icons=true)
-
-<a href="https://app.daily.dev/mariuszwitkowski"><img src="https://api.daily.dev/devcards/69e3e6bedc034942b9c1f2c31dd6dd01.png?r=ij2" width="400" alt="Mariusz Witkowski's Dev Card"/></a>
 
 <!--
 **MariuszWitkowski/MariuszWitkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
